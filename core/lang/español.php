@@ -1,6 +1,6 @@
 <?
 //Lenguajes
- $motd = 'La Network no premium con mas variedad de PvP';
+ $motd = 'La Network premium con la mas amplia variedad de minijuegos de PvP.';
  
  $header[jugar] = 'Jugar';
  $header[stats] = 'Stats':
@@ -51,13 +51,13 @@
  $foro[table][vistas] == 'Vistas';
  
  $foro[topic][foro] = 'Foros';
- $foro[topic][desc] = 'haz crecer la comunidad';
+ $foro[topic][desc] = 'Haz crecer la comunidad';
  
- $stats[desc] = 'los mejores jugadores de la network';
+ $stats[desc] = 'Los mejores jugadores de la network';
  $stats[table][usuario] = 'Usuario';
  
  $cuenta[titulo] = 'Añadir informacion';
- $cuenta[titulo][desc] = 'comparte tu informacion para que otros usuarios la miren!';
+ $cuenta[titulo][desc] = 'Comparte tu informacion para que otros usuarios la miren!';
  
  $cuenta[uuid] = 'UUID (solo en el server)';
  $cuenta[otras][titulo] = 'Otras configuraciones';
