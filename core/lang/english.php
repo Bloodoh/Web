@@ -49,7 +49,7 @@
  $foro[table][respuestas] == 'Posts';
  $foro[table][vistas] == 'Views';
  
- $stats[desc] = 'best players from the network';
+ $stats[desc] = 'Best players from the network';
  $stats[table][usuario] = 'Player';
  
  $cuenta[titulo] = 'Personal information';
